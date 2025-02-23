@@ -5,8 +5,8 @@ Pod::Spec.new do |s|
   s.homepage      = 'https://www.nayax.com/'
   
   s.license       = { :type => 'MIT' }
-  s.author        = { 'MyFramework' => 'maxkalik@gmail.com' }
-  s.source        = { :http => 'https://github.com/OlegShNayax/iOSEcomSdk.git', :tag => s.version }
+  s.author        = { 'NayaxEcomSDK' => 'olegs@nayax.com' }
+  s.source        = { :http => 'https://github.com/OlegShNayax/iOSEcomSdk/releases/download/1.0.0/NayaxEcomSDKv1.0.0.zip' }
   
   s.swift_version = '5.0'
   s.platforms     = { :ios => '13.4'}
