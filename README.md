@@ -1,0 +1,1 @@
+Nayax Ecom SDK
